@@ -6,9 +6,7 @@
 I am confident in my ability to work both independently and in a team. My goal is to create quality products that meet the needs of clients and exceed their expectations. I am always open to communication with HR managers and ready to discuss cooperation opportunities.
  </p> 
 
-  <div align="center">
  ![terminal gif](terminal.gif) 
-  </div>
   
  <h2 align="center">🌐 Connect with me:</h2> 
   
