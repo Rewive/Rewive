@@ -2,8 +2,9 @@
   
  <p align="center"> 
   👋 Hi! My name is Ivan. I am an experienced developer with a wide range of skills, including working with tools and technologies such as PS, Figma, Nest.JS, Node.JS, MongoDB, MySQL, PostgreSQL, Mongoose, Typegoose, Prisma, HTML, CSS, JS, Vue.JS and Tailwind. I am constantly striving to expand my knowledge and skills to be at the forefront of technological progress.
-
-I am confident in my ability to work both independently and in a team. My goal is to create quality products that meet the needs of clients and exceed their expectations. I am always open to communication with HR managers and ready to discuss cooperation opportunities.
+ </p> 
+  <p align="center"> 
+  I am confident in my ability to work both independently and in a team. My goal is to create quality products that meet the needs of clients and exceed their expectations. I am always open to communication with HR managers and ready to discuss cooperation opportunities.
  </p> 
 
  ![terminal gif](terminal.gif) 
