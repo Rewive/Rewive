@@ -1,84 +1,134 @@
-<h1 align="center">💫 About Me:</h1> 
-  
- <p align="center"> 
-  👋 Hi! My name is Ivan. I am an experienced developer with a wide range of skills, including working with tools and technologies such as PS, Figma, Nest.JS, Node.JS, MongoDB, MySQL, PostgreSQL, Mongoose, Typegoose, Prisma, HTML, CSS, JS, Vue.JS and Tailwind. I am constantly striving to expand my knowledge and skills to be at the forefront of technological progress.
- </p> 
-  <p align="center"> 
-  I am confident in my ability to work both independently and in a team. My goal is to create quality products that meet the needs of clients and exceed their expectations. I am always open to communication with HR managers and ready to discuss cooperation opportunities.
- </p> 
+<div align="center">
+  <h1>🚀 Welcome to My Git!</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3YzVhNzVhMzg0ZDY4ZTI5OWZiNjVhN2ZiYzVhYzVhYzVhYzVhYyZjdD1n/26ufnwz3wDUli7GU0/giphy.gif" width="300" alt="AI animation">
+</div>
 
- ![terminal gif](terminal.gif) 
-  
- <h2 align="center">🌐 Connect with me:</h2> 
-  
- <p align="center"> 
-   <a href="https://t.me/rewive"> 
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> 
-   </a> 
-   <a href="vk.ru/0rewive0"> 
-     <img src="https://img.shields.io/badge/-Vkontakte-4a76a8?style=for-the-badge&logo=vk&logoColor=white" alt="VK"> 
-   </a> 
-   <a href="mailto:iamlopatinivan@gmail.com"> 
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> 
- </a> 
- </p> 
-  
- <h2 align="center">🛠️ Tech Stack:</h2> 
-  
- <p align="center"> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> 
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> 
-   <img src="https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
-   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
-   <img src="https://img.shields.io/badge/Nest.JS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=red" alt="Nest.JS"> 
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> 
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
-   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
-   <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"> 
-   <img src="https://img.shields.io/badge/Typegoose-46AEBD?style=for-the-badge&logo=typescript&logoColor=white" alt="Typegoose"> 
-   <img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"> 
-   <img src="https://img.shields.io/badge/PS-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PS"> 
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
-   <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"> 
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> 
- </p> 
-  
- <h2 align="center">📊 GitHub Stats:</h2> 
-  
- <p align="center"> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rewive&theme=github_dark"> 
-   <br/> 
-   <br/> 
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-   <br/> 
-   <br/> 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rewive&theme=dark&hide_border=false"> 
-   <br/> 
-   <br/> 
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-   <br/> 
-   <br/> 
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rewive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
-   <br/> 
-   <br/> 
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-   <br/> 
-   <br/> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rewive&theme=github_dark"> 
-   <br/> 
-   <br/> 
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
- </p> 
-  
- <h2 align="center">🏆 GitHub Trophies</h2> 
-  
- <p align="center"> 
-   <img src="https://github-profile-trophy.vercel.app/?username=Rewive&theme=radical&no-frame=true&no-bg=true&margin-w=4"> 
- </p> 
-  
-  
- <p align="center"> 
-     <img src="https://api.visitorbadge.io/api/VisitorHit?user=Rewive&repo=github-visitors-badge&countColor=DodgerBlue" /> 
- </p>
+---
+
+### 🌟 About Me
+
+👋 Hi, I'm Ivan, a Deep Learning Engineer and Backend Developer with drive to push the boundaries of Artificial Intelligence and scalable systems. My expertise lies in crafting cutting-edge solutions in CV, NLP, ML, and DS, complemented by robust backend architectures.
+
+🔥 I’ve tackled complex tasks like Seq2Seq modeling, Classification, Object Detection, Segmentation, Time-Series Forecasting, and Person Re-Identification (ReID), delivering impactful results in real-world applications. Whether it’s training state-of-the-art neural networks or building high-performance APIs with Nest.JS and Node.JS.
+
+💡 My mission? To harness the power of AI and backend engineering to solve challenging problems, drive innovation, and create value for businesses and communities. I’m always open to collaborating with forward-thinking teams—let’s build the future together!
+
+---
+
+<div align="center">
+  <h2>🔥 My Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Nest.JS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.JS">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🧠 My Expertise</h2>
+</div>
+
+### 🤖 DL & ML
+- **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Tasks**: Classification, Object Detection, Semantic Segmentation, Seq2Seq, Forecasting, Animal ReID
+- **Architectures**: CNNs, RNNs, LSTMs, Transformers, GANs, YOLO, BERT
+- **Optimization**: Hyperparameter Tuning, Gradient Clipping, Quantization
+- **Tools**: MLflow, Weights & Biases, Optuna
+
+### 📸 CV
+- **Applications**: Image Classification, Object Detection, Instance Segmentation, Pose Estimation
+- **Libraries**: OpenCV, Albumentations, Detectron2, MMdetection
+- **Experience**: Real-time video processing, wild-life segmentation
+
+### 🗣️ NLP
+- **Tasks**: Sentiment Analysis, Named Entity Recognition, Text Generation, Machine Translation
+- **Models**: BERT, GPT, RoBERTa, T5
+- **Tools**: Hugging Face Transformers, SpaCy, NLTK
+- **Applications**: Chatbots, Text Summarization, Semantic Search, Recommendation system
+
+### 📊 DS
+- **Skills**: EDA, Feature Engineering, Statistical Modeling, A/B Testing
+- **Tools**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- **Platforms**: AWS, Google Cloud, Databricks
+- **Focus**: Predictive Analytics, Recommendation Systems, Time-Series Analysis
+
+### ⚙️ Backend Development
+- **Frameworks**: Nest.JS, Node.JS, Express
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **ORMs**: Mongoose, Typegoose, Prisma
+- **APIs**: REST, GraphQL, WebSockets
+- **DevOps**: Docker, Kubernetes, CI/CD, AWS
+
+### 🎨 Frontend & Design
+- **Tech**: HTML, CSS, JavaScript, Vue.JS, Tailwind CSS
+- **Design Tools**: Figma, Photoshop
+- **Focus**: Building intuitive, responsive, and visually appealing interfaces
+
+---
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="https://t.me/rewive">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="mailto:iamlopatinivan@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rewive&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rewive&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rewive&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rewive&theme=radical" alt="Profile Details">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Rewive&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>✨ Let’s Create Something Extraordinary</h2>
+  <p>
+    I’m always excited to collaborate on innovative AI and backend projects. Reach out, and let’s make waves together!
+  </p>
+  <p>
+    <a href="mailto:iamlopatinivan@gmail.com">
+      <img src="https://img.shields.io/badge/-Hire%20Me-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Rewive&repo=github-visitors-badge&countColor=%23FF4500" alt="Visitor Badge">
+</div>
